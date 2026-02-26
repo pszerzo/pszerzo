@@ -22,6 +22,7 @@ My work focuses on:
 - Advanced SQL (MySQL)
 - Data Modeling
 - Financial Reporting Automation
+- Business Intelligence Reporting
 
 ---
 
@@ -38,5 +39,5 @@ A full inventory recommendation system with:
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/szerzopeter/
-Email: peterszerzo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/szerzopeter/
+- Email: peterszerzo@gmail.com
