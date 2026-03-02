@@ -10,9 +10,8 @@ I design and implement data-driven systems that directly impact working capital,
 
 My work focuses on:
 - Inventory optimization 
-- SQL-heavy data pipelines
 - Financial impact modeling
-- Supplier and stock analytics
+- Demand forecasting
 
 ---
 
@@ -20,20 +19,9 @@ My work focuses on:
 
 - Python (Pandas, NumPy, SQLAlchemy)
 - Advanced SQL (MySQL)
-- Data Modeling
+- Data Analysis
 - Financial Reporting Automation
 - Business Intelligence Reporting
-
----
-
-## Highlight Projects
-
-### MinMax Optimization Engine
-A full inventory recommendation system with:
-- Clustering-based segmentation
-- Budget-aware min/max adjustment
-- Financial impact modeling
-- Shop-level stock simulation
 
 ---
 
