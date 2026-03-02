@@ -19,7 +19,6 @@ My work focuses on:
 
 - Python (Pandas, NumPy, SQLAlchemy)
 - Advanced SQL (MySQL)
-- Data Analysis
 - Financial Reporting Automation
 - Business Intelligence Reporting
 
