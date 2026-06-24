@@ -1,16 +1,17 @@
 # Szerző Péter
 
-Automotive Distribution | Financial Analytics | Data Science | Machine Learning 
+Automotive Aftermarket Distribution | Financial Analytics | Machine Learning 
 
 ---
 
 ## About Me
 
-I design and implement data-driven systems that directly impact working capital, inventory performance, and financial efficiency.
+I design and implement end to end data-driven decision support systems that directly impact working capital, inventory performance, and financial efficiency.
 
-My work focuses on:
-- Inventory optimization 
-- Financial impact modeling
+My work connects data analysis, financial optimization, and machine learning to improve:
+
+- Inventory efficiency
+- Working capital allocation
 - Demand forecasting
 
 ---
@@ -20,6 +21,7 @@ My work focuses on:
 - Python + SQL
 - Advanced Statistics (time series, clustering)
 - Machine Learning techniques (regressions, random forest, gradient boosting)
+
 
 ---
 
