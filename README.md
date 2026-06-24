@@ -1,6 +1,6 @@
 # Szerző Péter
 
-Automotive Distribution | Financial Analytics | Data Analytics
+Automotive Distribution | Financial Analytics | Data Science | Machine Learning 
 
 ---
 
@@ -17,10 +17,9 @@ My work focuses on:
 
 ## Core Competencies
 
-- Python (Pandas, NumPy, SQLAlchemy)
-- Advanced SQL (MySQL)
-- Financial Reporting Automation
-- Business Intelligence Reporting
+- Python + SQL
+- Advanced Statistics (time series, clustering)
+- Machine Learning techniques (regressions, random forest, gradient boosting)
 
 ---
 
